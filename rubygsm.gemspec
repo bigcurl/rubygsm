@@ -25,5 +25,5 @@ Gem::Specification.new do |s|
 		"sms"
 	]
 
-	s.add_dependency("serialport", [">= 1.1.0"])
+	# s.add_dependency("bigcurl/ruby-serialport")
 end
